@@ -10,7 +10,7 @@
 	/*tracks tablosundaki tüm bilgileri sorgulayınız*/
 	SELECT * FROM tracks;
 	
-	
+	ss
 /*===================================================
 													DISTINCT
 ===================================================*/
